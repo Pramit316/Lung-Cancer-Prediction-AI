@@ -53,7 +53,7 @@ This model is pre-trained so simply run the predictor.
    pip install notebook
    ```
 
-2. **Open the Notebook**: Once Jupyter Notebook is installed, navigate to the directory where `Diabetes_Analysis.ipynb` is located using your command line or terminal.
+2. **Open the Notebook**: Once Jupyter Notebook is installed, navigate to the directory where `lung_cancer_analysis.ipynb` is located using your command line or terminal.
 
 3. **Start Jupyter Notebook**: Run the following command to start the Jupyter Notebook server:
    ```bash
