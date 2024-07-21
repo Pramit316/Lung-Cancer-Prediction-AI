@@ -1,4 +1,4 @@
-#Lung Cancer Prediction
+# Lung Cancer Prediction
 
 This repository contains the code for a machine learning model to predict lung cancer. The model is built using Python and various machine learning libraries. This README provides installation instructions and an overview of the project.
 
