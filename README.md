@@ -15,9 +15,8 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/Pramit316/Lung-Cancer-Prediction-AI.git
-cd Lung-Cancer-Prediction-AI
 ```
-2.Navigate to the project directory
+2. Navigate to the project directory
 
 Change your current working directory to the project directory.
 
