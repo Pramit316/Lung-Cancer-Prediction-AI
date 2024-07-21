@@ -16,6 +16,8 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/Pramit316/Lung-Cancer-Prediction-AI.git
 ```
+
+
 2. Navigate to the project directory
 
 Change your current working directory to the project directory.
@@ -24,12 +26,16 @@ Change your current working directory to the project directory.
 cd Lung-Cancer-Prediction-AI
 ```
 
-2. Install dependencies
+
+
+3. Install dependencies
 
 Install the required packages using pip.
 ```bash
 pip install -r requirements.txt
 ```
+
+
 
 # Run the predictor
 This model is pre-trained so simply run the predictor.
@@ -37,6 +43,8 @@ This model is pre-trained so simply run the predictor.
    python app.py
    ```
    After execution, open your web browser and go to `[http://192.168.1.64:8501]` to access the application.
+
+   
 
 ### If you want to train the model on your own:
 
